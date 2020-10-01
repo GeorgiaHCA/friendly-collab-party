@@ -23,3 +23,5 @@ Numbered List:
 
 Link:
 [This Repository](https://github.com/GeorgiaHCA/friendly-collab-party/edit/master/README.md)
+
+![](https://i.imgur.com/KdrtTIE.png)
