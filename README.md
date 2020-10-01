@@ -14,8 +14,8 @@ List:
 Numbered List: 
 
 1. 
-2. 
-3. 
+1.
+1.
 
 Link:
 [This Repository](https://github.com/GeorgiaHCA/friendly-collab-party/edit/master/README.md)
